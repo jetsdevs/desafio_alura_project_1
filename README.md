@@ -1,6 +1,6 @@
 # Desafio Alura - Primeiro Projeto JAVA
 
-Este é o primeiro projeto do Desafio Alura, onde você aprenderá os conceitos básicos de programação Java utilizando o IntelliJ IDEA.
+Este é o primeiro projeto do Desafio Alura, onde eu aprendi os conceitos básicos de programação Java utilizando o IntelliJ IDEA.
 
 # Objetivos
 
