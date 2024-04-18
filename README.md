@@ -10,7 +10,7 @@ Este é o primeiro projeto do Desafio Alura, onde você aprenderá os conceitos 
 * Utilizar o Scanner para realizar a leitura de dados do usuário
 * Controlar o fluxo da aplicação com o uso de condicionais e loops
 
-#Instruções
+# Instruções
 
 * Faça o download e instale o IntelliJ IDEA em sua máquina.
 * Clone este repositório em seu ambiente de desenvolvimento local.
